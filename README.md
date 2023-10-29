@@ -1,17 +1,16 @@
-# Hi there!    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi there! :wave:
 
 My name is Tudor and i'm an electronics engineer.
 - 🔭 I’m currently working on my bachelor's degree.
 - 🌱 I’m currently learning embedded programming.
-- ⚡ Fun fact: C is the only programming language that exists for such a long period and still it is widely used.
+- 🏎️ I’m actively to collaborating on [UPBDrive](https://upbdrive.ro/)  FSAE project.
 
-## :fire: My Stats
+# My Stats :fire:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marcutudor79&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=490" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcutudor79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-##  📫 You can reach me @ 
+#  📫 You can reach me @ 
 <div id="badges" align = "center">
   <p>  
   <a href="www.linkedin.com/in/tudor-m-62594721a">
