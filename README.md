@@ -10,19 +10,6 @@ My name is Tudor and i'm an electronics engineer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcutudor79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#  📫 You can reach me @ 
-<div id="badges" align = "center">
-  <p>  
-  <a href="www.linkedin.com/in/tudor-m-62594721a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" height="30"/>
-  </a>
-  <a href="mailto:marcutudor5@gmail.com">
-  <img src="https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" width="120" height="30"/>
-  </a>
-  </p>
-</div>
-
-
 <!--
 **marcutudor79/marcutudor79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
