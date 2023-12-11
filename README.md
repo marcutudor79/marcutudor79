@@ -3,7 +3,7 @@
 My name is Tudor and i'm an electronics engineer.
 - 🔭 I’m currently working on my bachelor's degree.
 - 🌱 I’m currently learning embedded programming.
-- 🏎️ I’m actively to collaborating on [UPBDrive](https://upbdrive.ro/)  Formula Student project.
+- 🏎️ I’m actively collaborating on [UPBDrive](https://upbdrive.ro/)  Formula Student project.
 
 # My Stats :fire:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marcutudor79&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=490" alt="GitHub Streak" /></a>
