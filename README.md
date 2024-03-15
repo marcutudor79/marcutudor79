@@ -1,6 +1,6 @@
 # Hi there! :wave:
 
-My name is Tudor and i'm an electronics engineer.
+My name is Tudor and I'm an electronics engineer.
 - 🔭 I’m currently working on my bachelor's degree.
 - 🌱 I’m currently learning embedded programming.
 - 🏎️ I’m actively collaborating on [UPBDrive](https://upbdrive.ro/)  Formula Student project.
