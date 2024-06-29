@@ -1,7 +1,7 @@
 # Hi there! :wave:
 
 My name is Tudor and I'm an electronics engineer.
-- 🔭 I’m currently working on my [bachelor's degree.](https://github.com/marcutudor79/electronic-module-for-the-dashboard-of-upbdrive-racing-car)
+- 🔭 I’m finishing the work on the [bachelor's degree.](https://github.com/marcutudor79/electronic-module-for-the-dashboard-of-upbdrive-racing-car)
 - 🌱 I’m currently learning embedded programming.
 - 🏎️ I’m actively collaborating on [UPBDrive](https://upbdrive.ro/)  Formula Student project.
 
