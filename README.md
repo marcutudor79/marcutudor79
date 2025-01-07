@@ -1,7 +1,8 @@
 # Hi there! :wave:
 
 My name is Tudor and I'm an electronics engineer.
-- 🌱 I’m currently learning embedded programming.
+RN doing a master's degree in embedded sys programming.
+
 - ⚡ Fun fact: Otters hold hands when they sleep to keep from drifting apart! 🦦🤝
 
 # My Stats :fire:
