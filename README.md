@@ -2,7 +2,7 @@
 
 My name is Tudor and I'm an electronics engineer.
 
-- 📟 RN doing a master's degree in embedded sys programming.
+- 📟 RN doing a master's degree in embedded sys programming @ Bucharest Politehnica 🇷🇴 x Télécom Paris 🇫🇷
 - ⚡ Fun fact: Otters hold hands when they sleep to keep from drifting apart! 🦦🤝
 
 # My Stats :fire:
