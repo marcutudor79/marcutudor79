@@ -4,9 +4,9 @@ My name is Tudor and I'm an electronics engineer.
 
 - 📟 RN doing a master's degree in embedded sys programming @ Bucharest Politehnica 🇷🇴 x Télécom Paris 🇫🇷
 - ⚡ Fun fact: Otters hold hands when they sleep to keep from drifting apart! 🦦🤝
+- 📫 How to reach me: marcutudor5@gmail.com
 
 # My Stats :fire:
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marcutudor79&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=490" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcutudor79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
