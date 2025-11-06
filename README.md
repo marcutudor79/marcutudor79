@@ -1,8 +1,9 @@
 # Hi there! :wave:
 
-My name is Tudor and I'm an electronics engineer.
+My name is Tudor and I'm an electronics & telecommunications engineer.
 
-- 📟 RN doing a master's degree in embedded sys programming @ Bucharest Politehnica 🇷🇴 x Télécom Paris 🇫🇷
+- 📟 RN doing a master's degree in embedded sys programming && distributed software development
+                                  @ Bucharest Politehnica 🇷🇴 x Télécom Paris 🇫🇷
 - 📫 How to reach me: marcutudor5@gmail.com
 - ⚡ Fun fact: Otters hold hands when they sleep to keep from drifting apart! 🦦🤝
 
