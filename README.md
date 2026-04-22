@@ -3,7 +3,7 @@
 My name is Tudor and I'm an electronics & telecommunications engineer.
 
 - 📟 Master's degree in embedded systems && distributed software development
-- @ Bucharest Politehnica 🇷🇴 x Polytechnique de Paris 🇫🇷
+- @ Politehnica București 🇷🇴 x Polytechnique de Paris 🇫🇷
 - 📫 How to reach me: marcutudor5@gmail.com
 
 <!--
